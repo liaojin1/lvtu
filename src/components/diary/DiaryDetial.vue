@@ -73,9 +73,7 @@ ul li{
 .time-line{
     margin-left: 20%;
 }
-.line{
 
-}
 .time{
     font-size: 14px;
     font-weight: bold;

@@ -272,5 +272,6 @@
     color: #333;
     display: inline-block;
     float: left;
+    
 }
 </style>

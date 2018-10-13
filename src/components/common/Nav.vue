@@ -7,7 +7,7 @@
                 <span>|</span>
                 <a class="fontColor" href="/social"><strong>社交</strong></a>
                 <span>|</span>
-                <a class="fontColor" href=""><strong>导航</strong></a>
+                <a class="fontColor" href="/guide"><strong>导航</strong></a>
                 <span>|</span>
                 <a class="fontColor" href="/zixun"><strong>Cate.Hotel.Scenery</strong></a>
                 <span>|</span>
