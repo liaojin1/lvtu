@@ -235,13 +235,13 @@
     height: 200px;
     margin-left: 30%;
   }
-  .jing1,.left1{
+  .jing1,.left1,.food1{
     transition: height 1s;
   }
-  .jing1:hover,.left1:hover{
+  .jing1:hover,.left1:hover,.food1:hover{
     height: 70%;
   }
-  @keyframes shanghua{
+  /* @keyframes shanghua{
     from{
       height: 23%;
     }
@@ -251,7 +251,7 @@
   }
   .food1:hover{
     animation: shanghua 1s linear forwards;
-  }
+  } */
   .xinwen .xinwen1 .biaoti{
     padding-left: 5px;
   }

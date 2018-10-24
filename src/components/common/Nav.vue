@@ -100,8 +100,9 @@ export default {
     color: #424242;
 }
 .two-nav .two-nav-li:hover{
-    color: #5cadff;
+    color: #fff;
     cursor: pointer;
+    background: #5cadff;
 }
 .two-nav{
     float: left;
