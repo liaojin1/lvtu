@@ -67,6 +67,7 @@ export default {
 
 /*nav css start*/
 .nav{
+    /* position: fixed; */
     background-color: #f8f8f9;
     width: 100%;
     height: 30%;
@@ -100,9 +101,10 @@ export default {
     color: #424242;
 }
 .two-nav .two-nav-li:hover{
-    color: #fff;
+    /* color: #fff; */
     cursor: pointer;
-    background: #5cadff;
+    color: #5cadff;
+    /* background: #5cadff; */
 }
 .two-nav{
     float: left;

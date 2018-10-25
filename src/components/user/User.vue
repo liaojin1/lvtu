@@ -89,7 +89,7 @@ export default {
         position: relative;
         width: 100%;
         height: 100%;
-        background: url('../../assets/img/beach.jpg') no-repeat center/cover;
+        background: url('http://n1-q.mafengwo.net/s11/M00/4B/A4/wKgBEFt5C_OADZBfAA1iIyBhtfQ71.jpeg?imageMogr2%2Fstrip') no-repeat center/cover;
     }
     .content-box{
         margin-top: 3%;
@@ -100,6 +100,7 @@ export default {
         width: 30%;
         height: 50%;
         background-color: white;
+        border-radius: 10px;
     }
     .btn-style{
         margin-top: 10%;

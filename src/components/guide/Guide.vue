@@ -24,6 +24,20 @@ export default {
         map.enableScrollWheelZoom();   //启用滚轮放大缩小，默认禁用
 	    map.enableContinuousZoom();    //启用地图惯性拖拽，默认禁用
 
+        //获取位置
+        var geolocation = new BMap.Geolocation();
+        geolocation.getCurrentPosition(function(r){
+            if(this.getStatus() == BMAP_STATUS_SUCCESS){
+                var mk = new BMap.Marker(r.point);
+                map.addOverlay(mk);
+                map.panTo(r.point);
+                // alert('您的位置：'+r.point.lng+','+r.point.lat);
+            }
+            else {
+                alert('failed'+this.getStatus());
+            }        
+        });
+
         window.setTimeout(function(){
             map.panTo(new BMap.Point(126.618714,45.721202));
         }, 2000);

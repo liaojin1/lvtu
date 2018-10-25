@@ -7,24 +7,32 @@
       <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
       <li data-target="#carouselExampleCaptions" data-slide-to="1" class=""></li>
       <li data-target="#carouselExampleCaptions" data-slide-to="2" class=""></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="3" class=""></li>
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img class="d-block w-100" src="../../assets/img/2.jpg"  data-holder-rendered="true">
+        <img class="d-block w-100" src="http://n3-q.mafengwo.net/s11/M00/32/D9/wKgBEFtnqtuALq_yAAgMRg_6Uh843.jpeg?imageMogr2%2Fstrip"  data-holder-rendered="true">
         <div class="carousel-caption d-none d-md-block">
           <h5>First slide label</h5>
           <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="../../assets/img/2.jpg"  data-holder-rendered="true">
+        <img class="d-block w-100" src="http://n2-q.mafengwo.net/s12/M00/86/2F/wKgED1uXytSAOAXwAAQkW30M5A805.jpeg?imageMogr2%2Fstrip"  data-holder-rendered="true">
         <div class="carousel-caption d-none d-md-block">
           <h5>Second slide label</h5>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="../../assets/img/2.jpg"  data-holder-rendered="true">
+        <img class="d-block w-100" src="http://n3-q.mafengwo.net/s10/M00/93/03/wKgBZ1oOlXiAJV5VAAWsICelVjU81.jpeg?imageMogr2%2Fstrip"  data-holder-rendered="true">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Third slide label</h5>
+          <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" src="http://p2-q.mafengwo.net/s11/M00/98/7F/wKgBEFtNdFuACSL8ABODb0fvY_s80.jpeg?imageMogr2%2Fstrip"  data-holder-rendered="true">
         <div class="carousel-caption d-none d-md-block">
           <h5>Third slide label</h5>
           <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
@@ -42,13 +50,13 @@
   </div>
 
 
-      <div class="biaoti">
+      <!-- <div class="biaoti">
           <h2>美食推荐</h2>
       </div>
       <div class="meishi1 clearfix">
         <ul class="food clearfix">
-          <li><a href=""><img src="../../assets/img/m.2.jpg" alt=""></a><span class="food1">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp哈尔滨红肠，原产于东欧的立陶宛。中东铁路修建后，外国人大量进入哈尔滨。这种灌肠传到哈尔滨已有近百年的历史。因为肠的外表呈枣红色，所以被哈尔滨人称之为红肠。</span></li>
-          <li><a href=""><img src="../../assets/img/m.3.jpg" alt=""></a><span class="food1">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp冰糖葫芦又叫糖葫芦，在天津又称糖墩儿，在安徽凤阳叫作糖球。冰糖葫芦是中国传统小吃,它是将野果用竹签串成串后蘸上麦芽糖稀，糖稀遇风迅速变硬。北方冬天常见的小吃，一般用山楂串成，糖稀冻硬。吃起来又酸又甜，还很冰。</span></li>
+          <li><a href=""><img src="https://b4-q.mafengwo.net/s11/M00/E8/BE/wKgBEFsCN6-ATqM_AAeqOOJkMpM448.gif?imageMogr2%2Fthumbnail%2F%21440x270r%2Fgravity%2FCenter%2Fcrop%2F%21440x270%2Fquality%2F90" alt=""></a><span class="food1">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp哈尔滨红肠，原产于东欧的立陶宛。中东铁路修建后，外国人大量进入哈尔滨。这种灌肠传到哈尔滨已有近百年的历史。因为肠的外表呈枣红色，所以被哈尔滨人称之为红肠。</span></li>
+          <li><a href=""><img src="http://n2-q.mafengwo.net/s11/M00/92/B2/wKgBEFqVWKSAIzWPAATcLeY4oMc53.jpeg?imageMogr2%2Fthumbnail%2F1360x%2Fstrip%2Fquality%2F90" alt=""></a><span class="food1">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp冰糖葫芦又叫糖葫芦，在天津又称糖墩儿，在安徽凤阳叫作糖球。冰糖葫芦是中国传统小吃,它是将野果用竹签串成串后蘸上麦芽糖稀，糖稀遇风迅速变硬。北方冬天常见的小吃，一般用山楂串成，糖稀冻硬。吃起来又酸又甜，还很冰。</span></li>
           <li><a href=""><img src="../../assets/img/m.4.jpg" alt=""></a><span class="food1">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp锅包肉原名锅爆肉，是一道东北菜，光绪年间始创自哈尔滨道台府府尹杜学赢厨师郑兴文之手。成菜后，色泽金黄，口味酸甜。锅包肉是为适应外宾口味，把咸鲜口味的“焦烧肉条”改成了一道酸甜口味的菜肴。</span></li>
           <li><a href=""><img src="../../assets/img/m.5.jpg" alt=""></a><span class="food1">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp探鱼，经营烤鱼，以原创单品重庆豆花烤鱼作为主打菜；融合了腌、烤、堂烧、涮等多种烹饪技法，其鱼鲜嫩糯软、香浓麻辣。除烤鱼外，探鱼还有“串烧、前菜、小吃主食、甜点、自制饮品”等5条产品线，满足消费者的味蕾享受。</span></li>
         </ul>
@@ -58,10 +66,10 @@
       </div>
       <div class="jingdian clearfix">
         <ul class="jingdian1 clearfix">
-          <li><a href=""><img src="../../assets/img/j1.jpg" alt=""></a><span class="jing1">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp翻越阿尔卑斯山便是普罗旺斯，那是法国的薰衣草之乡，遍地紫色的薰衣草和空气中弥漫的香味，是所有坠入爱河的情侣所向往的地方。今年的“普罗旺斯”，将打造成为“北有太阳岛、南有薰衣草”的国际知名旅游胜地。</span></li>
-          <li><a href=""><img src="../../assets/img/j2.jpg" alt=""></a><span class="jing1">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp中央大街是黑龙江省哈尔滨市很繁盛的一条商业步行街，北起江畔的防洪纪念塔广场南接新阳广场，长1400米。这条长街始建于1900年，街道建筑包罗了文艺复兴，巴洛克等多种风格的建筑71栋。</span></li>
-          <li><a href=""><img src="../../assets/img/j3.jpg" alt=""></a><span class="jing1">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp索菲亚教堂坐落在东北名城哈尔滨，始建于1907年3月，原为沙俄东西伯利亚第四步兵师修建中东铁路的随军教堂，全木结构，占地面积为721平方米，通高53.35米，平面呈拉丁十字布局，是典型的拜占庭风格建筑</span></li>
-          <li><a href=""><img src="../../assets/img/j4.jpg" alt=""></a><span class="jing1">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp黑龙江地处中国最北部。是四季分明的亚寒带气候，因此冬季降雪较多，降雪冬季基本不融化，放眼望去银装素裹，被称为雪乡。雪乡位于黑龙江省牡丹江市辖下海林市大海林林业局双峰林场占地面积500公顷，整个地区海拔均在1200米以上。</span></li>
+          <li><a href=""><img src="http://n3-q.mafengwo.net/s11/M00/6D/55/wKgBEFqVOziAVGlrAA8XBWzhyMA59.jpeg?imageMogr2%2Fthumbnail%2F1360x%2Fstrip%2Fquality%2F90" alt=""></a><span class="jing1">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp翻越阿尔卑斯山便是普罗旺斯，那是法国的薰衣草之乡，遍地紫色的薰衣草和空气中弥漫的香味，是所有坠入爱河的情侣所向往的地方。今年的“普罗旺斯”，将打造成为“北有太阳岛、南有薰衣草”的国际知名旅游胜地。</span></li>
+          <li><a href=""><img src="http://p1-q.mafengwo.net/s11/M00/DB/FA/wKgBEFqPwiKAEUmrAAftJLn48q424.jpeg?imageMogr2%2Fthumbnail%2F1360x%2Fstrip%2Fquality%2F90" alt=""></a><span class="jing1">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp中央大街是黑龙江省哈尔滨市很繁盛的一条商业步行街，北起江畔的防洪纪念塔广场南接新阳广场，长1400米。这条长街始建于1900年，街道建筑包罗了文艺复兴，巴洛克等多种风格的建筑71栋。</span></li>
+          <li><a href=""><img src="http://p4-q.mafengwo.net/s11/M00/4E/BE/wKgBEFtm7-aAA_qCAAt95dsLfkI22.jpeg?imageMogr2%2Fthumbnail%2F%21440x300r%2Fstrip%2Fgravity%2FCenter%2Fcrop%2F%21440x300%2Fquality%2F90" alt=""></a><span class="jing1">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp索菲亚教堂坐落在东北名城哈尔滨，始建于1907年3月，原为沙俄东西伯利亚第四步兵师修建中东铁路的随军教堂，全木结构，占地面积为721平方米，通高53.35米，平面呈拉丁十字布局，是典型的拜占庭风格建筑</span></li>
+          <li><a href=""><img src="https://b2-q.mafengwo.net/s9/M00/BA/3E/wKgBs1gq1JeAExbZAAGS4YGRS1c14.jpeg?imageMogr2%2Fthumbnail%2F%21440x270r%2Fgravity%2FCenter%2Fcrop%2F%21440x270%2Fquality%2F90" alt=""></a><span class="jing1">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp黑龙江地处中国最北部。是四季分明的亚寒带气候，因此冬季降雪较多，降雪冬季基本不融化，放眼望去银装素裹，被称为雪乡。雪乡位于黑龙江省牡丹江市辖下海林市大海林林业局双峰林场占地面积500公顷，整个地区海拔均在1200米以上。</span></li>
         </ul>
       </div>
       <div class="zhuxin">
@@ -93,18 +101,48 @@
 
           </div>
         </div>
+      </div> -->
+
+      <div class="popularDestinations">
+        <div class="section">
+          <ul class="regionTabs">
+            <!--  :class="{'active':item.active}" -->
+            <li class="active" @mousemove="selectStyle (item)" v-for="(item, key) in items"><a href="./">{{item.select}}</a></li>
+          </ul>
+        </div>
       </div>
+      
+
     </div>
 </template>
 
 <script>
   import CommonNav from '@/components/common/Nav'
+  import Vue from 'vue'
+
   export default {
+    data(){
+      return {
+        active:true,
+        items:[
+            {select: '美食', id:1},
+            {select: '景点', id:2},
+            {select: '住宿', id:3},
+            {select: '新闻', id:4}
+        ],
+      }
+    },
     components:{
       CommonNav,
     },
     method:{
-     
+      selectStyle (i) {
+// 　　　　　　　　this.items.forEach(function (item) {
+// 　　　　　　　　　　Vue.set(item,'active',false);
+// 　　　　　　　　});
+// 　　　　　　　　Vue.set(i,'active',true);
+              // this.nIndex = key;
+　　　　　　},
     }
   }
 
@@ -144,7 +182,9 @@
   .food li img{
     width: 100%;
     height: 200px;
-    box-shadow:5px 2px 6px #666;
+    /* -webkit-box-shadow: 5px 2px 6px #666; */
+    /* box-shadow: 5px 2px 6px #666; */
+    border-radius: 5px;
   }
   .food1,.jing1,.left1{
     display: inline-block;
@@ -166,7 +206,9 @@
   .jingdian1 li img{
     width: 100%;
     height: 200px;
-    box-shadow:5px 2px 6px #666;
+    /* -webkit-box-shadow: 5px 2px 6px #666; */
+    /* box-shadow: 5px 2px 6px #666; */
+    border-radius: 5px;
   }
   .zhu,.xin{
     width: 100%;
@@ -195,7 +237,7 @@
   .zhusu .zhusu1 li img{
     width: 100%;
     height: 300px;
-    box-shadow:5px 2px 6px #666;
+    /* box-shadow:5px 2px 6px #666; */
 
   }
   .left,.right{
@@ -226,14 +268,16 @@
   .xinwen1 li img{
    width: 30%;
    height: 200px;
-    box-shadow:5px 2px 6px #666;
+   border-radius: 5px;
  }
   .wenzi{
-    width:60%;
+    width: 70%;
     margin-top: 40px;
     border: 1px solid rebeccapurple;
     height: 200px;
-    margin-left: 30%;
+    margin-left: 29%;
+    border-left: 0;
+    border-radius: 5px;
   }
   .jing1,.left1,.food1{
     transition: height 1s;
@@ -273,5 +317,89 @@
     display: inline-block;
     float: left;
     
+}
+
+
+
+
+
+
+.popularDestinations .section {
+    margin-top: 40px;
+}
+.popularDestinations .regionTabs {
+    width: 943px;
+}
+.popularDestinations .regionTabs {
+    display: table;
+    width: 1168px;
+    margin-bottom: 20px;
+    border: 1px solid #e3e2df;
+    border-bottom-color: #e3e2df;
+    box-shadow: 0 1px 5px 1px #e3e2df;
+}
+.popularDestinations .regionTabs li.active, .popularDestinations .regionTabs li.active:hover {
+    color: #00a680;
+    background: #fff;
+    cursor: default;
+}
+.popularDestinations .regionTabs li:first-child {
+    padding-left: 16px;
+    border-left: none;
+}
+.popularDestinations .regionTabs li {
+    display: table-cell;
+    /* display: inline!ie; */
+    /* zoom: 1!ie; */
+    height: 35px;
+    padding: 4px 15px;
+    line-height: 35px;
+    border-left: 1px solid #dad7c8;
+    color: #9e9a89;
+    font-weight: bold;
+    background: #f4f3f0;
+    text-align: center;
+    cursor: pointer;
+    position: relative;
+    transition: all 100ms linear;
+}
+.popularDestinations .regionTabs li.active:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 4px;
+    background: #00a680;
+}
+.popularDestinations .regionTabs li.active:after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: -12px;
+    width: 0;
+    height: 0;
+    margin-left: -8px;
+    border: solid transparent;
+    border-top-color: #00a680;
+    border-width: 6px 8px;
+}
+.popularDestinations .regionTabs li.active a, .popularDestinations .regionTabs li.active a:hover {
+    color: #00a680;
+}
+.popularDestinations .regionTabs li a {
+    display: inline-block;
+    max-width: 200px;
+    font-size: 16px;
+    vertical-align: middle;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #9e9a89;
+}
+a, a:visited, a:active {
+    color: #069;
+    text-decoration: none;
+    outline: none;
 }
 </style>
