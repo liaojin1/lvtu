@@ -1,85 +1,15 @@
 <template>
   <div>
     <common-nav></common-nav>
-    <div style="width: 50%;margin-left: 25%">
       <h1 style="text-align: center">新闻推荐</h1>
       <div class="xinwen">
         <ul class="xinwen1">
-          <li>
-            <img src="../../assets/img/z1.jpg" align="left" alt="">
-            <div class="wenzi">
-              <h1 class="biaoti">标题</h1>
-              <hr>
-               <br>
-                <div style="height: 130px;overflow: hidden">
-                  <p style="font-size: 16px">&nbsp&nbsp&nbsp&nbsp我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀</p>
-                </div>
-              <hr>
-              <span class="fabu">发布时间</span>
-              <span class="zuozhe">作者</span>
-            </div>
-          </li>
-          <li>
-            <img src="../../assets/img/z1.jpg" align="left" alt="">
-            <div class="wenzi">
-              <h1 class="biaoti">标题</h1>
-              <hr>
-               <br>
-                <div style="height: 130px;overflow: hidden">
-                  <p style="font-size: 16px">&nbsp&nbsp&nbsp&nbsp我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀</p>
-                </div>
-              <hr>
-              <span class="fabu">发布时间</span>
-              <span class="zuozhe">作者</span>
-            </div>
-          </li>
-          <li>
-            <img src="../../assets/img/z1.jpg" align="left" alt="">
-            <div class="wenzi">
-              <h1 class="biaoti">标题</h1>
-              <hr>
-               <br>
-                <div style="height: 130px;overflow: hidden">
-                  <p style="font-size: 16px">&nbsp&nbsp&nbsp&nbsp我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀</p>
-                </div>
-              <hr>
-              <span class="fabu">发布时间</span>
-              <span class="zuozhe">作者</span>
-            </div>
-          </li>
-          <li>
-            <img src="../../assets/img/z1.jpg" align="left" alt="">
-            <div class="wenzi">
-              <h1 class="biaoti">标题</h1>
-              <hr>
-               <br>
-                <div style="height: 130px;overflow: hidden">
-                  <p style="font-size: 16px">&nbsp&nbsp&nbsp&nbsp我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀</p>
-                </div>
-              <hr>
-              <span class="fabu">发布时间</span>
-              <span class="zuozhe">作者</span>
-            </div>
-          </li>
-          <li>
-            <img src="../../assets/img/z1.jpg" align="left" alt="">
-            <div class="wenzi">
-              <h1 class="biaoti">标题</h1>
-              <hr>
-               <br>
-                <div style="height: 130px;overflow: hidden">
-                  <p style="font-size: 16px">&nbsp&nbsp&nbsp&nbsp我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀我是内容呀</p>
-                </div>
-              <hr>
-              <span class="fabu">发布时间</span>
-              <span class="zuozhe">作者</span>
-            </div>
-          </li>
-
+          <li><a href=""><img src="../../assets/img/z1.jpg" align="left" alt=""></a><div class="wenzi"><div class="biaoti"><h3>标题</h3><br><span>Courtyard by Marriott Hangzhou Wulin</span></div><p>去武林广场步行十五分钟，在门口骑共享单车就能到西湖。有室内泳池和健身房，和万豪共用的。早餐不错，服务人员态度热情。去武林广场步行十五分钟，在门口骑共享单车就能到西湖。有室内泳池和健身房，和万豪共用的。早餐不错，服务人员态度热情。</p><span class="fabu">发布时间</span><span class="zuozhe">作者</span></div></li>
+          <li><a href=""><img src="../../assets/img/z1.jpg" align="left" alt=""></a><div class="wenzi"><div class="biaoti"><h3>标题</h3><br><span>Courtyard by Marriott Hangzhou Wulin</span></div><p>去武林广场步行十五分钟，在门口骑共享单车就能到西湖。有室内泳池和健身房，和万豪共用的。早餐不错，服务人员态度热情。去武林广场步行十五分钟，在门口骑共享单车就能到西湖。有室内泳池和健身房，和万豪共用的。早餐不错，服务人员态度热情。</p><span class="fabu">发布时间</span><span class="zuozhe">作者</span></div></li>
+          <li><a href=""><img src="../../assets/img/z1.jpg" align="left" alt=""></a><div class="wenzi"><div class="biaoti"><h3>标题</h3><br><span>Courtyard by Marriott Hangzhou Wulin</span></div><p>去武林广场步行十五分钟，在门口骑共享单车就能到西湖。有室内泳池和健身房，和万豪共用的。早餐不错，服务人员态度热情。去武林广场步行十五分钟，在门口骑共享单车就能到西湖。有室内泳池和健身房，和万豪共用的。早餐不错，服务人员态度热情。</p><span class="fabu">发布时间</span><span class="zuozhe">作者</span></div></li>
+          <li><a href=""><img src="../../assets/img/z1.jpg" align="left" alt=""></a><div class="wenzi"><div class="biaoti"><h3>标题</h3><br><span>Courtyard by Marriott Hangzhou Wulin</span></div><p>去武林广场步行十五分钟，在门口骑共享单车就能到西湖。有室内泳池和健身房，和万豪共用的。早餐不错，服务人员态度热情。去武林广场步行十五分钟，在门口骑共享单车就能到西湖。有室内泳池和健身房，和万豪共用的。早餐不错，服务人员态度热情。</p><span class="fabu">发布时间</span><span class="zuozhe">作者</span></div></li>          
         </ul>
-
       </div>
-    </div>
 
   </div>
 </template>
@@ -95,45 +25,74 @@
 </script>
 
 <style scoped>
-  .xin a{
-    text-decoration: none;
-    color: black;
-    margin-left:5%;
-    margin-top: 50px;
-  }
   .xinwen{
+     box-sizing: border-box;
+     width: 90%;
+     margin-left: 5%;
+   }
+.xin{
     width: 100%;
+    padding-left: 40px;
+    padding-top: 10px;
+    text-align: center;
   }
+  .xin a{
+     text-decoration: none;
+     color: black;
+     margin-left:5%;
+     margin-top: 50px;
+   }
+  
   .xinwen li{
     list-style: none;
-    margin-top: 10px;
-    position: relative;
+    padding: 25px 0;
+    border-bottom: 1px solid #ececec;
+    
   }
   .xinwen1 li img{
-    width: 30%;
-    height: 200px;
-
-  }
+    margin-right: 20px;
+    width: 330px;
+    height: 240px;
+    border-radius: 5px;
+ }
   .wenzi{
-    width:60%;
-    margin-top: 40px;
-    border: 1px solid gainsboro;
-    height: 200px;
-    margin-left: 30%;
-    margin-right: 0px;
+    border: 0;
+    width: 70%;
+    height: 240px;
+    margin-left: 29%;
+    border-radius: 5px;
+    position: relative;
   }
-  .xinwen .xinwen1 .biaoti{
-    padding-left: 5px;
+  .wenzi span {
+    font-size: 14px;
+    color: #999;
+    vertical-align: middle;
   }
-  .xinwen .xinwen1 .fabu{
-    margin-left: 15%;
+  .wenzi p {
+    margin: 5px 0 15px;
+    font-size: 14px;
+    line-height: 26px;
+    max-height: 78px;
+  }
+ .xinwen .xinwen1 .fabu{
     position: absolute;
-    bottom: 0px;
+    bottom: 0;
   }
   .xinwen .xinwen1 .zuozhe{
     position: absolute;
-    right:130px;
-    bottom: 0px;
-  }
+    bottom: 0;
+    margin-left: 15%;
+  } 
 
+.biaoti{
+  height: 58px;
+}
+.biaoti h3{
+    margin-right: 5px;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+    display: inline;
+    color: #666;
+}
 </style>

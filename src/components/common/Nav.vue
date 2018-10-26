@@ -5,18 +5,18 @@
             <div class="nav-left">
                 <a class="fontColor" href="/"><strong>首页</strong></a>
                 <span>|</span>
-                <a class="fontColor" href="/social"><strong>社交</strong></a>
-                <span>|</span>
+                <!-- <a class="fontColor" href=""><strong></strong></a> -->
+                <!-- <span>|</span> -->
                 <a class="fontColor" href="/guide"><strong>导航</strong></a>
                 <span>|</span>
                 <a class="fontColor" href="/zixun"><strong>Cate.Hotel.Scenery</strong></a>
                 <span>|</span>
                 <a class="fontColor" href="/xinwen"><strong>新闻</strong></a>
                 <span>|</span>
-                <a class="fontColor" @mouseover="isShow" @mouseout="isHidden" href="/guide"><strong>出行指南</strong>
+                <a class="fontColor" @mouseover="isShow" @mouseout="isHidden" href="/social"><strong>社交</strong>
                     <ul class="two-nav clearfix" v-show='isshow'>
-                        <li class="two-nav-li">出行安排</li>
-                        <li class="two-nav-li">导游选择</li>
+                        <li class="two-nav-li"><a href="/men">BOYS</a></li>
+                        <li class="two-nav-li"><a href="/women">GIRLS</a></li>
                     </ul>
 
                 </a>
@@ -51,9 +51,6 @@ export default {
             this.isshow = false;
         }
     },
-    created:{
-
-    }
 }
 </script>
 
@@ -109,12 +106,12 @@ export default {
 .two-nav{
     float: left;
     position: absolute;
-    left: -22%;
+    left: -85%;
     border: 1px solid #d3d3d3;
     font-size: 15px;
     padding: 5px 11px 5px;
     border-radius: 5%;
-    width: 150%;
+    /* width: 150%; */
     z-index: 10;
     background-color: #fff;
 }

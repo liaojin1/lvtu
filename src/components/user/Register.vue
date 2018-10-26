@@ -129,6 +129,7 @@ export default {
         transform: translate(-50%,-50%);
         width: 40%;
         background-color: white;
+        border-radius: 10px;
     }
     .btn-style{
         margin-top: 10%;

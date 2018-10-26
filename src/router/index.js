@@ -23,6 +23,9 @@ import Register from '@/components/user/Register'
 //zixun
 import Zixun from '@/components/zixun/Zixun'
 import XinWen from '@/components/zixun/Xinwen'
+import Men from '@/components/guide/Men'
+import Women from '@/components/guide/Women'
+
 Vue.use(Router)
 
 export default new Router({
@@ -72,6 +75,14 @@ export default new Router({
       path:'/xinwen',
       name:'xinwen',
       component:XinWen,
+    },{
+      path:'/men',
+      name:'men',
+      component:Men,
+    },{
+      path:'/women',
+      name:'women',
+      component:Women,
     }
 ]
 })

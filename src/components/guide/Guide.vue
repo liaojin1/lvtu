@@ -52,6 +52,6 @@ export default {
 <style scoped>
 .mapbar{
     width: 100%;
-    height: 500px;
+    height: 550px;
 }
 </style>
