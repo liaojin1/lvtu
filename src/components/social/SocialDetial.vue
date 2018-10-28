@@ -1,6 +1,7 @@
 <template>
   <div>
-    <h3 class="display-4" style="color: #17233d;position: fixed;top: 0px;background-color: white;border-bottom: solid 3px #e8eaec" >稻城结伴旅行</h3>
+    <common-nav></common-nav>
+    <h3 class="display-4" style=" margin-top: 20px;color: #17233d;top: 0px;background-color: white;border-bottom: solid 3px #e8eaec" >稻城结伴旅行</h3>
     <div style="width: 60%;height:100%;margin-left: 20%;background-color:#f8f8f9;margin-top: 50px">
       <div class="fabuzhe">
         <div class="touxiang"></div>
@@ -99,7 +100,7 @@
 
       </div>
     </div>
-    <div style="position: fixed;top:300px;left: 50px;width: 50px;height: 50px;background-color: #808695" v-on:click="fanhui"><span style="font-size: 50px;display: inline-block;line-height: 50px;"><</span></div>
+    <!-- <div style="position: fixed;top:300px;left: 50px;width: 50px;height: 50px;background-color: #808695" v-on:click="fanhui"><span style="font-size: 50px;display: inline-block;line-height: 50px;"><</span></div> -->
   </div>
 
 
@@ -164,7 +165,7 @@
   }
   h3{
     width: 100%;
-    height: 90px;
+    height: 50px;
     text-align: center;
   }
   .liuyan{

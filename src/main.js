@@ -11,7 +11,7 @@ import 'iview/dist/styles/iview.css'
 
 Vue.config.productionTip = false
 Vue.use(iView)
-
+global.API_PROXY = 'https://bird.ioliu.cn/v2?url='//跨域代理
 require('./mock')
 /* eslint-disable no-new */
 new Vue({

@@ -23,6 +23,8 @@
 
                 <span>|</span>
                 <a class="fontColor" href="/diary"><strong>旅途日记</strong></a>
+                <span>|</span>
+                <a class="fontColor" href="/other"><strong>其他</strong></a>
             </div>
             <div class="nav-right">
                 <a class="fontColor" href="/user"><strong>登录</strong></a>

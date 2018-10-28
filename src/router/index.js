@@ -25,7 +25,8 @@ import Zixun from '@/components/zixun/Zixun'
 import XinWen from '@/components/zixun/Xinwen'
 import Men from '@/components/guide/Men'
 import Women from '@/components/guide/Women'
-
+//other
+import Other from '@/components/other/Other'
 Vue.use(Router)
 
 export default new Router({
@@ -83,6 +84,10 @@ export default new Router({
       path:'/women',
       name:'women',
       component:Women,
+    },{
+      path:'/other',
+      name:'other',
+      component:Other,
     }
 ]
 })
