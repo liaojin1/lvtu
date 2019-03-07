@@ -27,6 +27,8 @@ import Men from '@/components/guide/Men'
 import Women from '@/components/guide/Women'
 //other
 import Other from '@/components/other/Other'
+
+import Write from '@/components/log/UserLog'
 Vue.use(Router)
 
 export default new Router({
@@ -88,6 +90,10 @@ export default new Router({
       path:'/other',
       name:'other',
       component:Other,
+    }, {
+      path:'/write',
+      name:'write',
+      component:Write,
     }
 ]
 })

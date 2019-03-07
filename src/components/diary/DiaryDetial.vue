@@ -9,7 +9,7 @@
                 <br />
                 <hr />
                 <p class="lead">旅途日记，用来记录大家的点点滴滴.</p>
-            <button type="button" class="btn btn-outline-primary">续写</button>
+            <a href="/write"><button type="button" class="btn btn-outline-primary">续写</button></a>
             </div>
         </div>
 

@@ -2,12 +2,12 @@
   <div>
     <common-nav></common-nav>
     <h3 class="display-4" style=" margin-top: 20px;color: #17233d;top: 0px;background-color: white;border-bottom: solid 3px #e8eaec" >稻城结伴旅行</h3>
-    <div style="width: 60%;height:100%;margin-left: 20%;background-color:#f8f8f9;margin-top: 50px">
+    <div style="padding:0 10%;height:100%;margin: 0 10%;background-color:#f8f8f9;margin-top: 50px">
       <div class="fabuzhe">
         <div class="touxiang"></div>
         <div style="padding-top: 10px"><span>姓  名</span></div>
       </div>
-      <hr style="width: 50%;margin-left: 25%">
+      <hr style="">
       <br>
       <br>
       <div class="neirong">
@@ -123,8 +123,7 @@
 
 <style scoped>
   .fabuzhe{
-    margin-top: 100px;
-    margin-left: 30%;
+    margin-top: 50px;
     text-align: center;
     height: 150px;
     width:100px ;
@@ -144,8 +143,6 @@
     padding-top: 10px;
   }
   .neirong{
-    width: 60%;
-    margin-left: 20%;
     color: #515a6e;
 
   }
@@ -165,7 +162,6 @@
   }
   h3{
     width: 100%;
-    height: 50px;
     text-align: center;
   }
   .liuyan{
